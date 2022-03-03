@@ -1,0 +1,12 @@
+{
+  "nfts": [
+    {
+      "id": 1,
+      "name": "Coffee Cup # Mountain",
+      "description": "Enjoy your coffee with this beautiful cup.",
+      "symbol": "COF",
+      "image": "https://bafybeiai6r3jpmuz6w6w2e3p6xincm7pbkiuwc6yv4oywfygtlq5y2ynmq.ipfs.dweb.link",
+      "animation_url": "https://static-nonogram.minijoy.work/magellan_nftmodels/fbe555d6-bdc7-4c0d-b7f9-662ab6242864.gltf"
+    }
+  ]
+}
